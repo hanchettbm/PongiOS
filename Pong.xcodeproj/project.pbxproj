@@ -18,6 +18,7 @@
 		F35A7C582685789F00978346 /* PongUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F35A7C572685789F00978346 /* PongUITests.swift */; };
 		F35A7C652685799500978346 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = F35A7C362685789D00978346 /* GameScene.sks */; };
 		F35A7C662685799500978346 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = F35A7C362685789D00978346 /* GameScene.sks */; };
+		F3B05A852687EF380089080A /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = F3B05A842687EF380089080A /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		F35A7C532685789F00978346 /* PongUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PongUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F35A7C572685789F00978346 /* PongUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PongUITests.swift; sourceTree = "<group>"; };
 		F35A7C592685789F00978346 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F3B05A842687EF380089080A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +113,7 @@
 				F35A7C3E2685789D00978346 /* Main.storyboard */,
 				F35A7C412685789F00978346 /* Assets.xcassets */,
 				F35A7C432685789F00978346 /* Info.plist */,
+				F3B05A842687EF380089080A /* README.md */,
 			);
 			path = Pong;
 			sourceTree = "<group>";
@@ -238,6 +241,7 @@
 			files = (
 				F35A7C402685789D00978346 /* Main.storyboard in Resources */,
 				F35A7C372685789D00978346 /* GameScene.sks in Resources */,
+				F3B05A852687EF380089080A /* README.md in Resources */,
 				F35A7C422685789F00978346 /* Assets.xcassets in Resources */,
 				F35A7C392685789D00978346 /* Actions.sks in Resources */,
 			);
