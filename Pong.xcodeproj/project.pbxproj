@@ -16,6 +16,8 @@
 		F35A7C422685789F00978346 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F35A7C412685789F00978346 /* Assets.xcassets */; };
 		F35A7C4D2685789F00978346 /* PongTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F35A7C4C2685789F00978346 /* PongTests.swift */; };
 		F35A7C582685789F00978346 /* PongUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F35A7C572685789F00978346 /* PongUITests.swift */; };
+		F35A7C652685799500978346 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = F35A7C362685789D00978346 /* GameScene.sks */; };
+		F35A7C662685799500978346 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = F35A7C362685789D00978346 /* GameScene.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -245,6 +247,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F35A7C652685799500978346 /* GameScene.sks in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -252,6 +255,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F35A7C662685799500978346 /* GameScene.sks in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
