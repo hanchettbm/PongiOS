@@ -85,6 +85,7 @@
 		F35A7C282685789D00978346 = {
 			isa = PBXGroup;
 			children = (
+				F3B05A842687EF380089080A /* README.md */,
 				F35A7C332685789D00978346 /* Pong */,
 				F35A7C4B2685789F00978346 /* PongTests */,
 				F35A7C562685789F00978346 /* PongUITests */,
@@ -113,7 +114,6 @@
 				F35A7C3E2685789D00978346 /* Main.storyboard */,
 				F35A7C412685789F00978346 /* Assets.xcassets */,
 				F35A7C432685789F00978346 /* Info.plist */,
-				F3B05A842687EF380089080A /* README.md */,
 			);
 			path = Pong;
 			sourceTree = "<group>";
