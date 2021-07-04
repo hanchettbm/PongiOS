@@ -1,30 +1,29 @@
 # Overview
+My app is a game, it is a two player pong game that has 2 paddles, and one ball, 2 users can touch each paddle on either end of the screen, and move them around to bounce the ball off of it. If the ball gets past your paddle the other person gains a point. It is a simple fun game that focuses on user input.  
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description of your app.  Describe how to use the app.}
-
-{Describe your purpose for creating this app.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
+*Purpose*  
+The purpose for creating this app was to learnswift and iPhone app design as well as to create something fun but useful that actually would be worth submitting to the app store. I am working to learn to create fun and useful apps that eventually could turn a prophet (through adds possibly).  
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the app}
+*Tools Used*  
+* Xcode 12.5
+* GitHub
+* iPhone XR
 
-{Describe the programming language that you used and any libraries.}
+*Programming Languages*  
+* Swift Version 5.3
+* git 
+* SprtieKit Library
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Apple SpriteKit Documentation](https://developer.apple.com/spritekit/)
+* [Pong SpriteKit Starter Tutorial](https://www.youtube.com/watch?v=LdL99CH23E8&ab_channel=JaredDavidson)
 
 # Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Figure out sizing on bigger displayes so full screen is enabled.
+* Add another view with different difficulty levels. 
+* Adjust ball movement so it doesn't get stuck on X/Y axis. 
