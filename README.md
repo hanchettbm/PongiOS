@@ -4,7 +4,7 @@ My app is a game, it is a two player pong game that has 2 paddles, and one ball,
 *Purpose*  
 The purpose for creating this app was to learnswift and iPhone app design as well as to create something fun but useful that actually would be worth submitting to the app store. I am working to learn to create fun and useful apps that eventually could turn a prophet (through adds possibly).  
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/fOYbGRGk3Fw)
 
 # Development Environment
 
